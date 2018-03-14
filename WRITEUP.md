@@ -26,7 +26,7 @@ The goals / steps of this project are the following:
 [image4]: ./submission_imgs/grad_direction.JPG "Gradient Direction"
 [image5]: ./submission_imgs/combined.JPG "Combined"
 [image6]: ./submission_imgs/transformed.JPG "Transformed"
-[image7]: ./submission_imgs/fit_windws.JPG "Windows_fitted"
+[image7]: ./submission_imgs/fit_windows.JPG "Windows_fitted"
 [image8]: ./submission_imgs/final.JPG "Final output"
 [video1]: ./project_video.mp4 "Video"
 
@@ -101,9 +101,7 @@ I used the conversions in x and y from pixels space to meters which were provide
 
 ### Pipeline (video)
 
-#### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
-
-Here's a [link to my video result](./project_video.mp4)
+Here's a link to my video result [https://drive.google.com/open?id=1hMW3DNmpbyXHwNwgFllC8PS9FrAtNM21].
 
 ---
 
